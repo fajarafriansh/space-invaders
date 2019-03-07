@@ -6,6 +6,7 @@ import os
 from os.path import abspath, dirname
 import math
 import random
+from playsound import playsound
 
 basePath = abspath(dirname(__file__))
 imagePath = basePath + "/images/"
@@ -23,6 +24,7 @@ ship_img = imagePath + "ship.gif"
 laser_img = imagePath + "ship-laser.gif"
 fonts = fontPath + "space_invaders.ttf"
 shoot = soundPath + "shoot.wav"
+explosion = soundPath + "shipexplosion.wav"
 
 turtle.register_shape(enemy_img)
 turtle.register_shape(ship_img)
@@ -97,12 +99,12 @@ bulletState =  "ready"
 def fire_bullet():
 	global bulletState
 	if bulletState == "ready":
-	# os.startfile("D:/Dev/Game/space-invaders/sounds/shoot.wav")
 		bulletState = "fire"
 		x = player.xcor()
 		y = player.ycor() +10
 		bullet.setposition(x, y)
 		bullet.showturtle()
+		playsound(shoot, False)
 
 def isCollision(t1, t2):
 	distance = math.sqrt(math.pow(t1.xcor()-t2.xcor(),2)+math.pow(t1.ycor()-t2.ycor(),2))
@@ -163,6 +165,7 @@ while True:
 		# Check for the collition between bullet and anemy
 		if isCollision(bullet, enemy):
 			bullet.hideturtle()
+			playsound(explosion, False)
 			bulletState = "ready"
 			bullet.setposition(0, -400)
 			x = random.randint(-200, 200)
@@ -177,6 +180,7 @@ while True:
 	if isCollision(player, enemy):
 		player.hideturtle()
 		enemy.hideturtle()
+		playsound(explosion, False)
 		print("Game Over")
 		break
 

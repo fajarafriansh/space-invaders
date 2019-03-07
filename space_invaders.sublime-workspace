@@ -1,0 +1,1193 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sh",
+				"shoot"
+			],
+			[
+				"sou",
+				"soundPath"
+			],
+			[
+				"sy",
+				"system〔function〕"
+			],
+			[
+				"fonts",
+				"fonts〔variable〕"
+			],
+			[
+				"sp",
+				"space_invaders.ttf\t(spaceinvaders.py)"
+			],
+			[
+				"font",
+				"fontPath"
+			],
+			[
+				"pl",
+				"player"
+			],
+			[
+				"la",
+				"laser_img"
+			],
+			[
+				"shi",
+				"ship_img"
+			],
+			[
+				"ene",
+				"enemy_img"
+			],
+			[
+				"bas",
+				"basePath"
+			],
+			[
+				"ima",
+				"imagePath"
+			],
+			[
+				"base",
+				"base_path"
+			],
+			[
+				"ship",
+				"ship.gif"
+			],
+			[
+				"sha",
+				"shapesize"
+			],
+			[
+				"enemy",
+				"enemy.gif"
+			],
+			[
+				"re",
+				"register_shape〔function〕"
+			],
+			[
+				"back",
+				"background.jpg\t(spaceinvaders.py)"
+			],
+			[
+				"scor",
+				"score"
+			],
+			[
+				"sco",
+				"score_pen"
+			],
+			[
+				"num",
+				"number_of_anemies"
+			],
+			[
+				"is",
+				"isCollision〔function〕"
+			],
+			[
+				"set",
+				"setposition〔function〕"
+			],
+			[
+				"se",
+				"setposition〔function〕"
+			],
+			[
+				"bulle",
+				"bullet"
+			],
+			[
+				"bul",
+				"bulletState"
+			],
+			[
+				"bu",
+				"bullet"
+			],
+			[
+				"pow",
+				"pow〔function〕"
+			],
+			[
+				"b",
+				"bullet"
+			],
+			[
+				"bullets",
+				"bulletSpeed"
+			],
+			[
+				"tr",
+				"triangle"
+			],
+			[
+				"setpo",
+				"setposition〔function〕"
+			],
+			[
+				"on",
+				"onkey〔function〕"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"S",
+				"Sxq"
+			],
+			[
+				"sis",
+				"sisiTegak"
+			],
+			[
+				"sisi",
+				"sisiDatar"
+			],
+			[
+				"float",
+				"float\t(interpolasi-linear.py)"
+			],
+			[
+				"si",
+				"sisi_1"
+			],
+			[
+				"col",
+				"colophon\t(footer.php)"
+			],
+			[
+				"ev",
+				"evie-wp"
+			],
+			[
+				"pri",
+				"primary_menu"
+			],
+			[
+				"ari",
+				"aria-expanded\t(navigation-top.php)"
+			],
+			[
+				"aria",
+				"aria-controls\t(navigation-top.php)"
+			],
+			[
+				"esc",
+				"esc_attr_e\t(navigation-top.php)"
+			],
+			[
+				"afr",
+				"after"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"error",
+				"error-404\t(cp-custom.css)"
+			],
+			[
+				"background",
+				"background-size\tproperty"
+			],
+			[
+				"url",
+				"url()"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"text",
+				"text-center\t(404.php)"
+			],
+			[
+				"scr",
+				"scroll\t(gotoTop.js)"
+			],
+			[
+				"padd",
+				"padding-right\t(custom.css)"
+			],
+			[
+				"hdr",
+				"hdr-nav\t(style.css)"
+			],
+			[
+				"else",
+				"else〔keyword〕"
+			],
+			[
+				"civi",
+				"civil_portal_customize"
+			],
+			[
+				"cust",
+				"customize\t(responsive.css)"
+			],
+			[
+				"requ",
+				"require_once\t(customizer.php)"
+			],
+			[
+				"time",
+				"timeout"
+			],
+			[
+				"cro",
+				"cross-1"
+			],
+			[
+				"cross",
+				"cross-2\t(preloader-2.html)"
+			],
+			[
+				"span",
+				"span\tTag"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"spi",
+				"spinner\t(header.php)"
+			],
+			[
+				"vis",
+				"visible\t(style.css)"
+			],
+			[
+				"over",
+				"overflow\t(style.css)"
+			],
+			[
+				"ease",
+				"ease-out"
+			],
+			[
+				"transla",
+				"translateY()"
+			],
+			[
+				"vi",
+				"visibility\tproperty"
+			],
+			[
+				"ad",
+				"addClass〔function〕"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"bl",
+				"blur()"
+			],
+			[
+				"cub",
+				"cube2\t(preloader.css)"
+			],
+			[
+				"cube",
+				"cube1\t(preloader.css)"
+			],
+			[
+				"bounc",
+				"bounce2\t(preloader.css)"
+			],
+			[
+				"bou",
+				"bounce1\t(preloader.css)"
+			],
+			[
+				"ea",
+				"easy-in-out"
+			],
+			[
+				"pre",
+				"preloader"
+			],
+			[
+				"wp",
+				"wp_enqueue_scripts"
+			],
+			[
+				"hid",
+				"hidePreloader〔function〕"
+			],
+			[
+				"spinner",
+				"spinner-wrapper\t(header.php)"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"scla",
+				"scale()"
+			],
+			[
+				"sc",
+				"scale()"
+			],
+			[
+				"rota",
+				"rotate()"
+			],
+			[
+				"anima",
+				"animation-delay\tproperty"
+			],
+			[
+				"eas",
+				"easy-in-out"
+			],
+			[
+				"to",
+				"top\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"di",
+				"dir\tTag"
+			],
+			[
+				"sca",
+				"scaleX()"
+			],
+			[
+				"visib",
+				"visible"
+			],
+			[
+				"lin",
+				"line-height\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"ci",
+				"civil-portal-responsive"
+			],
+			[
+				"wp_d",
+				"wp_dequeue_style"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"navbar",
+				"navbar〔variable〕"
+			],
+			[
+				"af",
+				"af\t:after"
+			],
+			[
+				"insta",
+				"instagram_link"
+			],
+			[
+				"mag",
+				"magazine-o-custom"
+			],
+			[
+				"wp_e",
+				"wp_enqueue_scripts"
+			],
+			[
+				"maga",
+				"magazine-o-custom\t(functions.php)"
+			],
+			[
+				"wp_",
+				"wp_enqueue_style"
+			],
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"method",
+				"method=\"get\t(search-form.txt)"
+			],
+			[
+				"mar",
+				"margin-top\t(style.css)"
+			],
+			[
+				"you",
+				"youtube\t(functions.php)"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"auth",
+				"author-link"
+			],
+			[
+				"content",
+				"content-single.php"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"flex-s",
+				"flex-start"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"get_the",
+				"get_the_author"
+			],
+			[
+				"get",
+				"get_avatar\t(functions.php)"
+			],
+			[
+				"share",
+				"share_buttons\t(functions.php)"
+			],
+			[
+				"tem",
+				"template-parts/"
+			],
+			[
+				"include",
+				"include〔keyword〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "space_invders.py",
+			"settings":
+			{
+				"buffer_size": 3928,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Pascal Snippets/fpc.sublime-build",
+					""
+				],
+				[
+					"Packages/Pascal Snippets/fpc.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Pascal Snippets/fpc.sublime-build",
+					"Build and Run"
+				]
+			],
+			[
+				"Packages/Pascal Snippets/fpc.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 320.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"py",
+				"Set Syntax: Python3"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"the",
+				"UI: Select Theme"
+			],
+			[
+				"ne",
+				"DA UI: General Settings"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"a ",
+				"A File Icon: Settings"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"A File Icon: Settings"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insat",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"Monokai Pro: select theme"
+			],
+			[
+				"them",
+				"Monokai Pro: select theme"
+			],
+			[
+				"col",
+				"ColorSchemeSelector: Select Color Scheme"
+			]
+		],
+		"width": 354.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Dev/Game/Space Invaders",
+		"/D/Dev/Game/Space Invaders/fonts",
+		"/D/Dev/Game/Space Invaders/images",
+		"/D/Dev/Game/Space Invaders/sounds"
+	],
+	"file_history":
+	[
+		"/D/Dev/Pascal/GameTebakan.pas",
+		"/D/Dev/Pascal/tugasFinal.pas",
+		"/D/Dev/Pascal/SnakeGame.pas",
+		"/D/Dev/Pascal/MenghitungUsia.pas",
+		"/D/Dev/Concrete_Project/mixDesign.pas",
+		"/D/Dev/Concrete_Project/interpolasi.pas",
+		"/D/Dev/Concrete_Project/statistik.pas",
+		"/D/Dev/Concrete_Project/FajarAfrianshah_Pemograman_10-01-2018.pas",
+		"/D/Dev/Concrete_Project/simulasiKuatTekan.pas",
+		"/D/Dev/Game/Space_Invaders-master/Space_Invaders-master/spaceinvaders.py",
+		"/E/autorun.inf",
+		"/C/Users/Fajar/AppData/Local/Temp/fz3temp-2/note2hacker.php",
+		"/C/Users/Fajar/AppData/Local/Temp/fz3temp-2/general-template.php",
+		"/C/Users/Fajar/AppData/Local/Temp/fz3temp-2/tasnima.php",
+		"/D/Dev/Python/regresiLinear.py",
+		"/D/Dev/Python/concrate-mix-design.py",
+		"/D/Dev/Python/interpolasi-linear.py",
+		"/D/OneDrive/Documents/Lecture/Semester V (2018-2019)/Analisa Numerik/CURVE FITTING/REGRESI/reglin.pas",
+		"/D/Dev/Python/regresiKuadrat.py",
+		"/D/OneDrive/Documents/Lecture/Semester V (2018-2019)/Analisa Numerik/CURVE FITTING/REGRESI/reglin.o",
+		"/D/Dev/Python/segitiga.py",
+		"/D/Dev/Python/2017-12-19.py",
+		"/C/Users/Fajar/Downloads/Compressed/Instahack-master/Instahack-master/hackinsta.py",
+		"/D/Dev/Python/scikit-test.py",
+		"/D/Dev/Python/jarvis.py",
+		"/C/laragon/www/civilportal/wp-content/themes/magazine-o/functions.php",
+		"/C/laragon/www/evie-wp/wp-content/themes/twentyseventeen/functions.php",
+		"/C/laragon/www/evie-wp/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php",
+		"/D/Documents/Project/evie_wp/Evie/index.html",
+		"/C/laragon/www/evie-wp/wp-content/themes/twentyseventeen/footer.php",
+		"/C/laragon/www/evie-wp/wp-content/themes/evie_wp/footer.php",
+		"/C/laragon/www/evie-wp/wp-content/themes/evie_wp/template-parts/navigation/navigation-top.php",
+		"/C/laragon/www/evie-wp/wp-content/themes/evie_wp/functions.php",
+		"/C/laragon/www/evie-wp/wp-content/themes/evie_wp/header.php",
+		"/C/Users/Fajar/AppData/Local/Temp/fz3temp-2/note4hacker.php",
+		"/C/Users/Fajar/AppData/Local/Temp/fz3temp-2/pintu.php",
+		"/C/laragon/www/civilportal/wp-content/themes/magazine-o/header.php",
+		"/C/laragon/www/evie-wp/wp-content/themes/evie_wp/evie-project.sublime-project",
+		"/C/laragon/www/civilportal/wp-content/themes/civil-portal/assets/css/cp-custom.css",
+		"/C/laragon/www/civilportal/wp-content/themes/civil-portal/single.php",
+		"/C/laragon/www/civilportal/wp-content/themes/civil-portal/style.css",
+		"/D/Documents/Project/Kamera keRent Ecom/KameraKerent/.git/COMMIT_EDITMSG",
+		"/C/xampp/apache/conf/extra/httpd-vhosts.conf",
+		"/C/xampp/apache/conf/extra/httpd-xampp.conf",
+		"/C/xampp/htdocs/civilportal/wp-content/themes/jinsy-magazine/style.css",
+		"/C/Users/Fajar/Downloads/Compressed/evie_theme/Evie/index.html",
+		"/C/xampp/htdocs/civilportal/wp-content/themes/civil-portal/header.php",
+		"/C/xampp/htdocs/civilportal/wp-content/themes/civil-portal/404.php",
+		"/C/xampp/htdocs/civilportal/wp-content/themes/civil-portal/template-parts/content-none.php",
+		"/C/xampp/htdocs/civilportal/wp-content/themes/civil-portal/search.php",
+		"/C/xampp/htdocs/civilportal/wp-content/themes/civil-portal/assets/js/cp-preloader.js",
+		"/C/xampp/htdocs/civilportal/wp-content/themes/civil-portal/functions.php",
+		"/C/Users/Fajar/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Fajar/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/xampp/htdocs/civilportal/wp-content/themes/civil-portal/style.css",
+		"/C/Users/Fajar/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/D/Documents/Dev/sublimeSetting.txt",
+		"/C/Users/Fajar/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/civilportal/wp-content/themes/civil-portal/assets/js/cp-stickyNavbar.js",
+		"/F/AUTORUN.INF",
+		"/C/xampp/htdocs/humra-store/composer.json",
+		"/C/xampp/htdocs/humra-store/server.php",
+		"/C/xampp/htdocs/humra-store/public/index.php",
+		"/C/xampp/apache/conf/httpd.conf",
+		"/C/xampp/htdocs/humrastore/index.php",
+		"/C/xampp/htdocs/domain.test/index.php",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/assets/js/stickyNavbar.js",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/assets/js/gotoTop.js",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/customizer/customizer-options/option-header.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/customizer/options.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/functions.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/reviewzine/functions.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/magazine-o/ocean-themes/customizer/customizer-options/option-header.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/magazine-o/template_home.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/magazine-o/archive.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/assets/js/preloader.js",
+		"/C/Users/Fajar/Dekstop/style.css",
+		"/C/Users/Fajar/Dekstop/responsive.css",
+		"/C/Users/Fajar/Dekstop/header.php",
+		"/C/Users/Fajar/Dekstop/functions.php",
+		"/C/Users/Fajar/Dekstop/author-box.php",
+		"/C/Users/Fajar/Dekstop/custom.css",
+		"/C/Users/Fajar/Dekstop/preloader.js",
+		"/C/Users/Fajar/Dekstop/preloader.css",
+		"/D/Documents/Dev/Website_Project/preloader-2.html",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/template-parts/content.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/template-parts/share-template.php",
+		"/D/Documents/Dev/Website_Project/preloader-01.html",
+		"/D/Documents/Dev/Website_Project/preloader.html",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/responsive.txt",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/magazine-o/ocean-themes/assets/css/responsive.css",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/magazine-base/test/manage.py",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/style.css",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/header.php",
+		"/C/Users/Fajar/Dekstop/no-sidebar.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/magazine-o/template-parts/content.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/template-parts/author-box.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/shapely/page-templates/no-sidebar.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/shapely/template-parts/content.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/shapely/page-templates/sidebar-left.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/shapely/page-templates/full-width.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/magazine-o/404.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/assets/js/stickyNavbar_M.js",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/assets/js/stickyNavbar_Mo.js",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/magazine-o/functions.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/magazine-o/ocean-themes/assets/css/custom.css",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/single.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/search-form.txt",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civilportal/functions.php",
+		"/C/Users/Fajar/Dekstop/share-template.php",
+		"/C/Users/Fajar/Dekstop/single.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civilportal/style.css",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/footer.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/share-template.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/template-parts/share.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/template-parts/content-single.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/magazine-o/template-parts/content-single.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civilportal/footer.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civil-portal/ocean-themes/assets/css/custom.css",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/tasnima/footer.php",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civilportal/js/topButton.js",
+		"/D/Games/Vainglory/Vainglory.dmp",
+		"/D/Videos/ts020998/game-of-thrones-first-season_indonesian-854127/Game of Thrones S05 [eps06-10] bluray 720p 400mb/S05E06 - Unbowed Unbent Unbroken - BluRay.srt",
+		"/D/Videos/ts020998/game-of-thrones-first-season_indonesian-854127/Game of Thrones S05 [eps06-10] bluray 720p 400mb/S05E09 - The Dance of Dragons - BluRay.srt",
+		"/C/Bitnami/wordpress-4.9.7-0/apps/wordpress/htdocs/wp-content/themes/civilportal/js/smoothscroll.js",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/tasnima/functions.php",
+		"/C/xampp/htdocs/wordpress/wp-content/themes/civilportal/style.css"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sound",
+			"main()",
+			"__main__",
+			"fire_bullet",
+			"wp-login",
+			"tasnima",
+			"wp-login",
+			"tasnima",
+			"wp-login",
+			"scrip",
+			"image-lin",
+			"rgba(0, 0, 0, 0)",
+			"layout-a",
+			"rgba(0, 0, 0, 0)",
+			"close"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tasnima",
+			"pintu"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "space_invders.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2040,
+								2040
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										2039,
+										2040
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"region.greenish"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										2034,
+										2035
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2160.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 131.0
+	},
+	"output.exec":
+	{
+		"height": 136.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "space_invaders.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"form_",
+				"public\\js\\backend_js\\matrix.form_validation.js"
+			],
+			[
+				"form_va",
+				"public\\js\\backend_js\\matrix.form_validation.js"
+			],
+			[
+				"red",
+				"app\\Http\\Middleware\\RedirectIfAuthenticated.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 262.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
